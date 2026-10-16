@@ -1,2 +1,1 @@
-Hello, Git!
-Today I learned how to update GitHub!
+I am learning Git Pull!
